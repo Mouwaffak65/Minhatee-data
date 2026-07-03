@@ -1,0 +1,30 @@
+{
+  "scholarships": [
+    {
+      "title": "منحة الحكومة التركية 2025",
+      "level": "بكالوريوس، ماجستير",
+      "deadline": "20 فبراير 2025",
+      "country": "تركيا",
+      "type": "تمويل كامل",
+      "criteria": "عمر أقل من 21 سنة...",
+      "requiredDocuments": "جواز سفر، شهادات..."
+    }
+  ],
+  "courses": [
+    {
+      "title": "دورة الذكاء الاصطناعي",
+      "institution": "منصة إدراك",
+      "date": "15 يوليو",
+      "time": "20:00",
+      "certificateType": "مجانية",
+      "isFree": true
+    }
+  ],
+  "news": [
+    {
+      "title": "خبر جديد",
+      "description": "تفاصيل الخبر هنا...",
+      "dateTag": "اليوم"
+    }
+  ]
+}
