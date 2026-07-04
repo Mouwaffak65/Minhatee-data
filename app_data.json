@@ -12,15 +12,6 @@
 }
   ],
   "courses": [
- {
-  "title": "دورة في  إتقان في تجويد القرآن",
-  "institution": "أ. سماح إبراهيم",
-  "date": "السبت 4 يوليو",
-  "time": "5 م",
-  "certificateType": "شهادة مجانا",
-  "isFree": true,
-  "registrationLink": "https://us06web.zoom.us/j/84997296709?pwd=RtgnRe2ebMHuAN1cSlLYCaAd6eQvLf.1"
-},
     {
   "title": "دورة في استخدامات الذكاء الاصطناعي",
   "institution": "أ. سليمان الحميد",
