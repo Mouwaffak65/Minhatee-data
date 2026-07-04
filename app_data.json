@@ -1,33 +1,26 @@
 {
   "scholarships": [
-    {
-      "title": "منح الرئيس لدراسة الدكتوراه في كلية إمبريال كوليدج لندن 2026 – المملكة المتحدة",
-      "level": "دكتوراه ",
-      "deadline": "يختلف حسب البرنامج ",
-      "country": "المملكة المتحدة",
-      "type": "تمويل كامل",
-      "criteria": "عمر أقل من 21 سنة...",
-      "requiredDocuments": "جواز سفر، شهادات..."
-    },
-    {
-      "title": "منحة الحكومة  2025",
-      "level": "بكالوريوس، ماجستير",
-      "deadline": "20 فبراير 2025",
-      "country": "تركيا",
-      "type": "تمويل كامل",
-      "criteria": "عمر أقل من 21 سنة...",
-      "requiredDocuments": "جواز سفر، شهادات..."
-    }
+  {
+  "title": "Nom de la bourse",
+  "level": "...",
+  "deadline": "...",
+  "country": "...",
+  "type": "...",
+  "criteria": "...",
+  "requiredDocuments": "...",
+  "applicationLink": "https://lien-pour-postuler.com"
+}
   ],
   "courses": [
     {
-      "title": "دورة الذكاء الاصطناعي",
-      "institution": "منصة إدراك",
-      "date": "15 يوليو",
-      "time": "20:00",
-      "certificateType": "مجانية",
-      "isFree": true
-    }
+  "title": "Nom de la formation",
+  "institution": "...",
+  "date": "...",
+  "time": "...",
+  "certificateType": "...",
+  "isFree": true,
+  "registrationLink": "https://lien-pour-assister.com"
+}
   ],
   "news": [
     {
