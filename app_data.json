@@ -42,6 +42,15 @@
 }
   ],
   "courses": [
+{
+  "title": "دورة في القاعدة المدنية - تعليم القراءة للمبتدئين  ",
+  "institution": " فضيلة الشيخ د. عَبْدِ المُحْسِنِ بْنِ مُحَمَّدٍ القَاسِمِ وَفَّقَهُ الله  ",
+  "date": "  -   ",
+  "time": " - ",
+  "certificateType": " شهادة مجانا + إجازة",
+  "isFree": true,
+  "registrationLink": "https://sharh.qm.edu.sa/Courses/alqiraaah"
+},
     {
   "title": "☀️ أساسيات البرمجة بلغة البايثون  ",
   "institution": " د. دعاء الكردي   ",
